@@ -27,3 +27,4 @@ target/
 src/test/
 *.gif
 *.jpg
+*.iml
